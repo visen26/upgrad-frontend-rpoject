@@ -1,0 +1,49 @@
+
+.header{
+    color: chocolate;
+    text-align: center;
+}
+
+.coverart {
+    margin-top: 5%;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+}
+
+.coverimage{
+    width: 200px;
+    height: 200px;
+    background-color: grey;
+}
+
+.track{
+    display: block;
+}
+
+.artist{
+    display: block;
+    color: rgb(47, 35, 209);
+}
+
+.dropdown{
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 50px;
+}
+
+.submit{
+    margin-left: 10px;
+    background-color: chocolate;
+    color: white;
+    padding: 2px;
+}
+
+.loading{
+    font: bold;
+    font-size: 50px;
+    color: coral;
+    align-content: center;
+}
